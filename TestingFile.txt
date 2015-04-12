@@ -1,0 +1,1 @@
+This is just a text file to test if we could update remote repository via multiple local repos.
